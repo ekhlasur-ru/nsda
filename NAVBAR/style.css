@@ -18,6 +18,8 @@ nav {
   display: flex;
   gap: 10px;
   list-style: none;
+  /* flex-direction: column; */
+  /* flex-direction: column; */
 }
 a {
   text-decoration: none;
